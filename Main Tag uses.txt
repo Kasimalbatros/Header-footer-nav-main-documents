@@ -1,0 +1,21 @@
+Main Tag:- HTML <main> tag is used to represent the main content of the <body> tag.
+
+Ex:-
+<!DOCTYPE>
+<html>  
+<body>  
+<main>  
+ <h2>Apples</h1>  
+ <p>The apple is a red color pomaceous fruit of the apple tree. It is a very famous saying about apple.  
+  </br> "An apple in a day, keeps the Doctor away".</p>  
+ <article>  
+  <h3>Red Delicious</h3>  
+  <p>These bright red apples are the most common found in many supermarkets.</p>  
+ </article>  
+ <article>  
+ <h3>Granny Smith</h3>  
+ <p>These juicy, green apples make a great filling for apple pies.</p>  
+ </article>  
+</main>  
+</body>  
+</html>  
